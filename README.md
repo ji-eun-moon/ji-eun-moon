@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=Hello%20World!&fontSize=90)
 
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=wave&color=#FFB6C1&height=300&section=header&text=Hello%20Jieun%20World!&fontSize=90&animation=fadeIn)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjieun0956&show_icons=true&theme=radical)
 
