@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=#FFB6C1&height=300&section=header&text=Hello%20Jieun%20World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#FFB6C1&height=400&section=header&text=Hello%20Jieun%20World!&fontSize=90&fontColor=d6ace6)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjieun0956&show_icons=true&theme=radical)
 
