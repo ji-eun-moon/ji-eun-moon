@@ -1,4 +1,4 @@
-# door Z silver
+# Hi I'm Jieun !
 
 <!--
 **mjieun0956/mjieun0956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
