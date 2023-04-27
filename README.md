@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjieun0956&show_icons=true&theme=radical)
+<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjieun0956&show_icons=true&theme=radical)</div>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mun0956)](https://solved.ac/mun0956)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjieun0956&layout=compact)](https://github.com/mjieun0956/github-readme-stats)
