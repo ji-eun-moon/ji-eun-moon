@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 - [기술 블로그](https://velog.io/@mjieun)
-- [포트폴리오](https://enchanted-trick-c57.notion.site/63b50ec624484020b3dac2d55987f45a)
+- [포트폴리오](https://mjieun.notion.site/63b50ec624484020b3dac2d55987f45a)
 
 <div align="center">
 
