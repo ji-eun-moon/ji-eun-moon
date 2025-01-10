@@ -31,10 +31,12 @@ Here are some ideas to get you started:
 <div>
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/nestJS-E0234E?style=for-the-badge&logo=nestJS&logoColor=white">
+<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </div>
 <div>
 <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/typeorm-262627?style=for-the-badge&logo=typeorm&logoColor=white">
+<img src="https://img.shields.io/badge/supabase-#3FCF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </div>
 
 #### Frontend
@@ -48,6 +50,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
 <img src="https://img.shields.io/badge/ZUSTAND-ECB63F?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/mobx-FF9955?style=for-the-badge&logo=Mobx&logoColor=white">
 </div>
 <div>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white">
